@@ -1,0 +1,81 @@
+[
+  {
+    "name": "LOGISTIC UX-UI",
+    "desc": "Freelance Project.",
+    "image": "notystackandroid",
+    "category": "Ux-Ui",
+    "links": {
+      "view": "https://www.figma.com/design/xYgFWLN76NItP9OrTnZuED/LogisPrototype?node-id=0-1&t=19tSWdYJYM2nHolE-1",
+      "code": "https://www.figma.com/design/xYgFWLN76NItP9OrTnZuED/LogisPrototype?node-id=0-1&t=19tSWdYJYM2nHolE-1"
+    }
+  },
+  {
+    "name": "ECOMMERCE Figma",
+    "desc": "web Design Final Project.",
+    "image": "sppuprepandroid",
+    "category": "Ux-Ui",
+    "links": {
+      "view": "https://www.figma.com/design/qs4Nc9g17Th90yswsnoHL5/E-commerce?node-id=0-1&t=iJ3Z6Sm5etspVf8Q-1",
+      "code": "https://www.figma.com/design/qs4Nc9g17Th90yswsnoHL5/E-commerce?node-id=0-1&t=iJ3Z6Sm5etspVf8Q-1"
+    }
+  },
+  {
+    "name": "Mobile App UX-UI",
+    "desc": "Personal Project.",
+    "image": "newsboxandroid",
+    "category": "Ux-Ui",
+    "links": {
+      "view": "https://www.figma.com/design/3UB6doKkDtXxhkwS5bFoUg/Apple-MobileApp?node-id=0-1&t=JIO5AiZVeSnexnDI-1",
+      "code": "https://www.figma.com/design/3UB6doKkDtXxhkwS5bFoUg/Apple-MobileApp?node-id=0-1&t=JIO5AiZVeSnexnDI-1"
+    }
+  },
+  {
+    "name": "Book Website UX-UI",
+    "desc": "Personal Project.",
+    "image": "weatherlyandroid",
+    "category": "Ux-Ui",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Cat Website",
+    "desc": "Own Wbsite.",
+    "image": "instagrammern",
+    "category": "Frontend",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Computer Shop",
+    "desc": "Final Project for Web Design Course.",
+    "image": "flipkartmern",
+    "category": "Frontend",
+    "links": {
+      "view": "https://sanim-eweb.netlify.app/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "SanimDev Portfolio",
+    "desc": "Portfolio  Site.",
+    "image": "resumegen",
+    "category": "Frontend",
+    "links": {
+      "view": "https://sanimdev.netlify.app/",
+      "code": "https://github.com/SanimDev/nimweb-portfolio.git"
+    }
+  },
+  {
+    "name": "Tuba Edu Website",
+    "desc": "Freelance Project",
+    "image": "reactprojects",
+    "category": "Frontend",
+    "links": {
+      "view": "https://tuba-edu.onrender.com/",
+      "code": "https://github.com/SanimDev/tuba-edu.git"
+    }
+  }]
