@@ -45,8 +45,8 @@
     "image": "instagrammern",
     "category": "Frontend",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://catsite-cofz.onrender.com/",
+      "code": "https://github.com/SanimDev/catsite.git"
     }
   },
   {
@@ -56,7 +56,7 @@
     "category": "Frontend",
     "links": {
       "view": "https://sanim-eweb.netlify.app/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "code": ""
     }
   },
   {
