@@ -52,10 +52,21 @@ header{
   background-color: #EBEAFF;
   box-shadow: 0 1px 4px rgba(146,161,176,.3);
 }
+
 section{
   min-height: 100vh;
   padding: 2rem 9%;
 }
+
+.work .box-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* ✅ 3 cards per row */
+  gap: 2rem;
+
+  max-width: 1200px;
+  margin: 2rem auto; /* ✅ center */
+}
+
 .heading{
   font-size: 3.5rem;
   color: rgb(32, 32, 32);
@@ -199,7 +210,7 @@ header .navbar ul li a:hover{
   display: flex;
   flex-wrap: wrap;
   gap:1.5rem;
-  margin: 2rem;
+  margin: 2rem auto;
 }
 .work .box-container .box{
   flex:1 1 30rem;

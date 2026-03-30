@@ -1,7 +1,7 @@
 [
   {
     "name": "LOGISTIC UX-UI",
-    "desc": "Freelance Project.",
+    "desc": "Logistic System Web App UI mockup created in Figma.",
     "image": "notystackandroid",
     "category": "Ux-Ui",
     "links": {
@@ -10,8 +10,8 @@
     }
   },
   {
-    "name": "ECOMMERCE Figma",
-    "desc": "web Design Final Project.",
+    "name": "E-COMMERCE UI",
+    "desc": "UI design for an e-commerce website (non-prototype), created in Figma.",
     "image": "sppuprepandroid",
     "category": "Ux-Ui",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Mobile App UX-UI",
-    "desc": "Personal Project.",
+    "desc": "E-Booking Meeting Room UX/UI Prototype designed in Figma.",
     "image": "newsboxandroid",
     "category": "Ux-Ui",
     "links": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Book Website UX-UI",
-    "desc": "Personal Project.",
+    "desc": "E-Book UI Mockup designed in Figma.",
     "image": "weatherlyandroid",
     "category": "Ux-Ui",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Cat Website",
-    "desc": "Own Wbsite.",
+    "desc": "This cat website is built to store information about your cute and lovely cats",
     "image": "instagrammern",
     "category": "Frontend",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Computer Shop",
-    "desc": "Final Project for Web Design Course.",
+    "desc": "A responsive e-commerce website for a computer shop, showcasing products, categories, and a smooth online shopping experience.",
     "image": "flipkartmern",
     "category": "Frontend",
     "links": {
@@ -61,7 +61,7 @@
   },
   {
     "name": "SanimDev Portfolio",
-    "desc": "Portfolio  Site.",
+    "desc": "A showcase of my coding journey: projects, designs, and skills all in one portfolio.",
     "image": "resumegen",
     "category": "Frontend",
     "links": {
@@ -71,7 +71,7 @@
   },
   {
     "name": "Tuba Edu Website",
-    "desc": "Freelance Project",
+    "desc": "A modern education website offering courses, resources, and a smooth online learning experience.",
     "image": "reactprojects",
     "category": "Frontend",
     "links": {
