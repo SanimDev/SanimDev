@@ -5,8 +5,8 @@
     "image": "notystackandroid",
     "category": "Ux-Ui",
     "links": {
-      "view": "https://www.figma.com/design/xYgFWLN76NItP9OrTnZuED/LogisPrototype?node-id=0-1&t=19tSWdYJYM2nHolE-1",
-      "code": "https://www.figma.com/design/xYgFWLN76NItP9OrTnZuED/LogisPrototype?node-id=0-1&t=19tSWdYJYM2nHolE-1"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "sppuprepandroid",
     "category": "Ux-Ui",
     "links": {
-      "view": "https://www.figma.com/design/qs4Nc9g17Th90yswsnoHL5/E-commerce?node-id=0-1&t=iJ3Z6Sm5etspVf8Q-1",
-      "code": "https://www.figma.com/design/qs4Nc9g17Th90yswsnoHL5/E-commerce?node-id=0-1&t=iJ3Z6Sm5etspVf8Q-1"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "newsboxandroid",
     "category": "Ux-Ui",
     "links": {
-      "view": "https://www.figma.com/design/3UB6doKkDtXxhkwS5bFoUg/Apple-MobileApp?node-id=0-1&t=JIO5AiZVeSnexnDI-1",
-      "code": "https://www.figma.com/design/3UB6doKkDtXxhkwS5bFoUg/Apple-MobileApp?node-id=0-1&t=JIO5AiZVeSnexnDI-1"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -35,8 +35,8 @@
     "image": "weatherlyandroid",
     "category": "Ux-Ui",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -45,8 +45,8 @@
     "image": "instagrammern",
     "category": "Frontend",
     "links": {
-      "view": "https://catsite-cofz.onrender.com/",
-      "code": "https://github.com/SanimDev/catsite.git"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -55,7 +55,7 @@
     "image": "flipkartmern",
     "category": "Frontend",
     "links": {
-      "view": "https://sanim-eweb.netlify.app/",
+      "view": "",
       "code": ""
     }
   },
@@ -65,8 +65,8 @@
     "image": "resumegen",
     "category": "Frontend",
     "links": {
-      "view": "https://sanimdev.netlify.app/",
-      "code": "https://github.com/SanimDev/nimweb-portfolio.git"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -75,7 +75,7 @@
     "image": "reactprojects",
     "category": "Frontend",
     "links": {
-      "view": "https://tuba-edu.onrender.com/",
-      "code": "https://github.com/SanimDev/tuba-edu.git"
+      "view": "",
+      "code": ""
     }
   }]
