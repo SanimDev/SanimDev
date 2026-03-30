@@ -200,7 +200,8 @@ document.onkeydown = function (e) {
 
 var Tawk_API = Tawk_API || {};
 Tawk_API.onLoad = function(){
-  Tawk_API.endChat(); // clears current chat session
+//   Tawk_API.endChat(); // clears current chat session
+ Tawk_API.minimize(); // keeps it minimized by default
 };
 
 var Tawk_API = Tawk_API || {};
