@@ -209,12 +209,12 @@ Tawk_API.customStyle = {
     desktop: {
       position: 'bl',
       xOffset: 20,
-      yOffset: 60
+      yOffset: 80
     },
     mobile: {
       position: 'bl',
       xOffset: 10,
-      yOffset: 20
+      yOffset: 55
     }
   }
 };
