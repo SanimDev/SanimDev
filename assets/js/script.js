@@ -214,7 +214,7 @@ Tawk_API.customStyle = {
     mobile: {
       position: 'bl',
       xOffset: 10,
-      yOffset: 55
+      yOffset: 60
     }
   }
 };
