@@ -31,20 +31,18 @@
         "name": "Figma",
         "icon": "https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png&color=000000"
     },
-    
     {
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name":"Spring Boot",
-        "icon":"https://img.icons8.com/?size=50&id=90519&format=png&color=000000"
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/?size=50&id=90519&format=png&color=000000"
     },
     {
-        "name":"Intellij IDEA",
-        "icon":"https://img.icons8.com/?size=48&id=61466&format=png&color=000000"
-    }
-    ,
+        "name": "Intellij IDEA",
+        "icon": "https://img.icons8.com/?size=48&id=61466&format=png&color=000000"
+    },
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
@@ -58,10 +56,10 @@
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
     },
     {
-        "name":"SQL Server",
-        "icon":"https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000"
+        "name": "SQL Server",
+        "icon": "https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000"
     },
-     {
+    {
         "name": "Netlify",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
@@ -70,7 +68,15 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-         "name":"Keycloak",
-         "icon":"https://img.icons8.com/?size=48&id=37PBwQwtRMDZ&format=png&color=000000"
+        "name": "Keycloak",
+        "icon": "https://img.icons8.com/?size=48&id=37PBwQwtRMDZ&format=png&color=000000"
+    },
+    {
+        "name": "Google Cloud",
+        "icon": "https://img.icons8.com/?size=48&id=fpGM2cINbbu4&format=png&color=000000"
+    },
+    {
+        "name": "DigitalOcean",
+        "icon": "https://img.icons8.com/?size=48&id=PJVoaac1LEJy&format=png&color=000000"
     }
 ]
